@@ -9,3 +9,5 @@
 - NextJS 13
 - TailwindCSS
 - MATLAB
+
+Check my [Portfolio website](https://www.seokhyeonbyun.com/) 
