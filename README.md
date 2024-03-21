@@ -6,7 +6,8 @@
 - Typescript
 - Fast API
 - Django
-- NextJS 13
+- NextJS
+- Astro JS
 - TailwindCSS
 - MATLAB
 
