@@ -1,13 +1,23 @@
+# My Tech Stacks
 
-## My Tech Stacks
+## Programming Languages
 - Python
 - Javascript
 - Typescript
+- MATLAB
+
+## Frameworks
 - Fast API
 - Django
 - NextJS
-- Astro JS
+- Astro
 - TailwindCSS
-- MATLAB
+
+## Tools
+- Git
+- Docker
+- Node.js
+- Mathematica
+
 
 Check my [Portfolio website](https://www.seokhyeonbyun.com/) 
